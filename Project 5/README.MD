@@ -21,7 +21,7 @@ Configure a new Linux server to host a web application. This will involve perfor
 - SSH port is **2200**
 - Complete URL for the hosted web application is **ec2-35-162-229-47.us-west-2.compute.amazonaws.com**
 
-*Please note: after my Graduation from the Udacity Full Stack Web Developer program, the URL **ec2-35-162-229-47.us-west-2.compute.amazonaws.com** is no longer active.* 
+**Please note**: after my Graduation from the Udacity Full Stack Web Developer program, the URL **ec2-35-162-229-47.us-west-2.compute.amazonaws.com** is no longer active. 
 
 ##Summary of software installed
 - Installed Finger to check if new user created 
