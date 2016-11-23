@@ -13,7 +13,7 @@ Learn to build sophisticated and powerful Modern Data-driven Web Applications wh
 - Protect Users' data from common attacks like an `Sql-injection attack`.
 
 ##Graduation Certificate
-![Certificate](https://github.com/AshleyPeterK/Full-Stack-Web-Developer-Nanodegree/blob/master/certificate.jpg)
+![Certificate](https://github.com/AshleyPeterK/Full-Stack-Web-Developer/blob/master/certificate.jpg)
 
 ###Tools and technologies learnt
 - Python programming language
