@@ -1,0 +1,4 @@
+cron:
+- description: Send a reminder email to any User who has a score of Zero 
+  url: /crons/send_reminder
+  schedule: every 12 hours

@@ -1,0 +1,13 @@
+Design decisions:
+
+What things were done to implement this Hangman game API using the 'Guess A number' Project 
+that was provided to serve as guide in this project:
+
+- Modified the cron.yaml and main.py files to send Email every 12 hours to only users with a score of  zero.
+
+- Altered the number of attempts /guesses to guess a word from 5 to 7 in the 'Game' model 
+  to make the game easier to win and hence encourage users to play the game more often.
+
+- A user can only guess one letter at time and not an entire word. I did this because allowing a user   to input a whole word would make the game logic harder to implement as it would require more    complex code to implement.
+
+- Decided to only implement guessing a single word as guessing a phrase would make the game logic much harder to implement. 
